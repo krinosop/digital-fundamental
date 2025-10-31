@@ -1,2 +1,2 @@
-# sistem-git-ID
+# digital-fundamental
 Предназначен для хранения заданий по ОЦТ
